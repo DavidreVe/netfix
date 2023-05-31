@@ -15,4 +15,5 @@
     padding: 20px 20px;
     outline-color: red;
     border-radius: 12px;
+    box-sizing: border-box;
 }

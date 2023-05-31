@@ -9,7 +9,7 @@ const Header =() =>{
 
     return <section >
         <div className="contenedorheader">
-            <img src="../public/img/LOGO.png" alt="logo"/>
+            <img src="./public/img/LOGO.png" alt="logo"/>
             <button onClick={manejarEnvio}>subir video</button>
             
         </div>

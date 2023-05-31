@@ -1,0 +1,14 @@
+.lista-opciones label{
+    display: block;
+    font-size: 18px;
+    
+
+}
+.lista-opciones select{
+    width: 100%;
+    background-color: white;
+    padding: 24px;
+    border: none;
+    outline-color: red;
+    font-size: 16px;
+}
