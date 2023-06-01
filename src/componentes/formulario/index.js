@@ -1,6 +1,6 @@
 import ListaOpciones from "../listaOpciones"
 import CampoTexto from "../campoTexto"
-import Boton from "../campoTexto/boton"
+import Boton from "../boton"
 import "./formulario.css"
 
 const Formulario =()=>{
